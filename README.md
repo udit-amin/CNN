@@ -1,1 +1,1 @@
-Basic CNN practice projects
+Basic CNN code Templates
